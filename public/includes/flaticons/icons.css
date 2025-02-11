@@ -1,0 +1,979 @@
+@font-face {
+    font-family: "flaticons";
+    src: url("flaticon_hotelc5a9.ttf?97be21fcc3f637e8bbba2cb5933e0a21") format("truetype"), 
+        url("flaticon_hotelc5a9.woff?97be21fcc3f637e8bbba2cb5933e0a21") format("woff"), 
+        url("flaticon_hotelc5a9.woff2?97be21fcc3f637e8bbba2cb5933e0a21") format("woff2"), 
+        url("flaticon_hotelc5a9.eot?97be21fcc3f637e8bbba2cb5933e0a21#iefix") format("embedded-opentype"), 
+        url("flaticon_hotelc5a9.svg?97be21fcc3f637e8bbba2cb5933e0a21#flaticon_hotel") format("svg");
+}
+
+i[class^="icon-fi-"]:before, i[class*=" icon-fi-"]:before {
+    font-family: flaticons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fi-resort:before {
+    content: "\f101";
+}
+
+.icon-fi-resort-1:before {
+    content: "\f102";
+}
+
+.icon-fi-do-not-disturb:before {
+    content: "\f103";
+}
+
+.icon-fi-hotel-sign:before {
+    content: "\f104";
+}
+
+.icon-fi-resort-2:before {
+    content: "\f105";
+}
+
+.icon-fi-hotel:before {
+    content: "\f106";
+}
+
+.icon-fi-review:before {
+    content: "\f107";
+}
+
+.icon-fi-bedroom:before {
+    content: "\f108";
+}
+
+.icon-fi-hotel-1:before {
+    content: "\f109";
+}
+
+.icon-fi-guest-house:before {
+    content: "\f10a";
+}
+
+.icon-fi-hotel-cart:before {
+    content: "\f10b";
+}
+
+.icon-fi-key-card:before {
+    content: "\f10c";
+}
+
+.icon-fi-reception:before {
+    content: "\f10d";
+}
+
+.icon-fi-room-service:before {
+    content: "\f10e";
+}
+
+.icon-fi-desk-bell:before {
+    content: "\f10f";
+}
+
+.icon-fi-service:before {
+    content: "\f110";
+}
+
+.icon-fi-check-in:before {
+    content: "\f111";
+}
+
+.icon-fi-room-service-1:before {
+    content: "\f112";
+}
+
+.icon-fi-coffee:before {
+    content: "\f113";
+}
+
+.icon-fi-hotel-2:before {
+    content: "\f114";
+}
+
+.icon-fi-hotel-3:before {
+    content: "\f115";
+}
+
+.icon-fi-hotel-bell:before {
+    content: "\f116";
+}
+
+.icon-fi-food-service:before {
+    content: "\f117";
+}
+
+.icon-fi-room-service-2:before {
+    content: "\f118";
+}
+
+.icon-fi-customer-service:before {
+    content: "\f119";
+}
+
+.icon-fi-sunrise:before {
+    content: "\f11a";
+}
+
+.icon-fi-around:before {
+    content: "\f11b";
+}
+
+.icon-fi-world:before {
+    content: "\f11c";
+}
+
+.icon-fi-destination:before {
+    content: "\f11d";
+}
+
+.icon-fi-signpost:before {
+    content: "\f11e";
+}
+
+.icon-fi-travel-map:before {
+    content: "\f11f";
+}
+
+.icon-fi-landscape:before {
+    content: "\f120";
+}
+
+.icon-fi-location:before {
+    content: "\f121";
+}
+
+.icon-fi-passport:before {
+    content: "\f122";
+}
+
+.icon-fi-suitcase:before {
+    content: "\f123";
+}
+
+.icon-fi-plane-ticket:before {
+    content: "\f124";
+}
+
+.icon-fi-flight:before {
+    content: "\f125";
+}
+
+.icon-fi-luggage:before {
+    content: "\f126";
+}
+
+.icon-fi-vacation:before {
+    content: "\f127";
+}
+
+.icon-fi-travel-bag:before {
+    content: "\f128";
+}
+
+.icon-fi-travel-bag-1:before {
+    content: "\f129";
+}
+
+.icon-fi-traveling:before {
+    content: "\f12a";
+}
+
+.icon-fi-airplane:before {
+    content: "\f12b";
+}
+
+.icon-fi-suitcase-1:before {
+    content: "\f12c";
+}
+
+.icon-fi-map:before {
+    content: "\f12d";
+}
+
+.icon-fi-bed:before {
+    content: "\f12e";
+}
+
+.icon-fi-bed-1:before {
+    content: "\f12f";
+}
+
+.icon-fi-bed-2:before {
+    content: "\f130";
+}
+
+.icon-fi-bed-3:before {
+    content: "\f131";
+}
+
+.icon-fi-bed-4:before {
+    content: "\f132";
+}
+
+.icon-fi-bed-5:before {
+    content: "\f133";
+}
+
+.icon-fi-bed-6:before {
+    content: "\f134";
+}
+
+.icon-fi-bed-7:before {
+    content: "\f135";
+}
+
+.icon-fi-beds:before {
+    content: "\f136";
+}
+
+.icon-fi-bed-8:before {
+    content: "\f137";
+}
+
+.icon-fi-bed-9:before {
+    content: "\f138";
+}
+
+.icon-fi-single-bed:before {
+    content: "\f139";
+}
+
+.icon-fi-account:before {
+    content: "\f13a";
+}
+
+.icon-fi-user:before {
+    content: "\f13b";
+}
+
+.icon-fi-user-1:before {
+    content: "\f13c";
+}
+
+.icon-fi-user-2:before {
+    content: "\f13d";
+}
+
+.icon-fi-users:before {
+    content: "\f13e";
+}
+
+.icon-fi-friends:before {
+    content: "\f13f";
+}
+
+.icon-fi-group:before {
+    content: "\f140";
+}
+
+.icon-fi-towel:before {
+    content: "\f141";
+}
+
+.icon-fi-mug:before {
+    content: "\f142";
+}
+
+.icon-fi-sandwich:before {
+    content: "\f143";
+}
+
+.icon-fi-breakfast:before {
+    content: "\f144";
+}
+
+.icon-fi-breakfast-1:before {
+    content: "\f145";
+}
+
+.icon-fi-breakfast-2:before {
+    content: "\f146";
+}
+
+.icon-fi-croissant:before {
+    content: "\f147";
+}
+
+.icon-fi-breakfast-3:before {
+    content: "\f148";
+}
+
+.icon-fi-breakfast-4:before {
+    content: "\f149";
+}
+
+.icon-fi-dinner:before {
+    content: "\f14a";
+}
+
+.icon-fi-breakfast-5:before {
+    content: "\f14b";
+}
+
+.icon-fi-croissant-1:before {
+    content: "\f14c";
+}
+
+.icon-fi-food-tray:before {
+    content: "\f14d";
+}
+
+.icon-fi-breakfast-6:before {
+    content: "\f14e";
+}
+
+.icon-fi-food-tray-1:before {
+    content: "\f14f";
+}
+
+.icon-fi-room-service-3:before {
+    content: "\f150";
+}
+
+.icon-fi-croissant-2:before {
+    content: "\f151";
+}
+
+.icon-fi-coffee-cup:before {
+    content: "\f152";
+}
+
+.icon-fi-parking:before {
+    content: "\f153";
+}
+
+.icon-fi-pet-hotel:before {
+    content: "\f154";
+}
+
+.icon-fi-calendar:before {
+    content: "\f155";
+}
+
+.icon-fi-calendar-1:before {
+    content: "\f156";
+}
+
+.icon-fi-calendar-2:before {
+    content: "\f157";
+}
+
+.icon-fi-calendar-3:before {
+    content: "\f158";
+}
+
+.icon-fi-car:before {
+    content: "\f159";
+}
+
+.icon-fi-car-1:before {
+    content: "\f15a";
+}
+
+.icon-fi-rental-car:before {
+    content: "\f15b";
+}
+
+.icon-fi-charging:before {
+    content: "\f15c";
+}
+
+.icon-fi-electric-car:before {
+    content: "\f15d";
+}
+
+.icon-fi-protection:before {
+    content: "\f15e";
+}
+
+.icon-fi-car-wash:before {
+    content: "\f15f";
+}
+
+.icon-fi-parking-1:before {
+    content: "\f160";
+}
+
+.icon-fi-calendar-4:before {
+    content: "\f161";
+}
+
+.icon-fi-car-key:before {
+    content: "\f162";
+}
+
+.icon-fi-route:before {
+    content: "\f163";
+}
+
+.icon-fi-energy:before {
+    content: "\f164";
+}
+
+.icon-fi-shopping-cart:before {
+    content: "\f165";
+}
+
+.icon-fi-shopping-cart-1:before {
+    content: "\f166";
+}
+
+.icon-fi-shopping-cart-2:before {
+    content: "\f167";
+}
+
+.icon-fi-trolley:before {
+    content: "\f168";
+}
+
+.icon-fi-bag:before {
+    content: "\f169";
+}
+
+.icon-fi-add-to-cart:before {
+    content: "\f16a";
+}
+
+.icon-fi-hotel-4:before {
+    content: "\f16b";
+}
+
+.icon-fi-sofa:before {
+    content: "\f16c";
+}
+
+.icon-fi-air-conditioner:before {
+    content: "\f16d";
+}
+
+.icon-fi-reception-1:before {
+    content: "\f16e";
+}
+
+.icon-fi-booked:before {
+    content: "\f16f";
+}
+
+.icon-fi-ac:before {
+    content: "\f170";
+}
+
+.icon-fi-air:before {
+    content: "\f171";
+}
+
+.icon-fi-ac-1:before {
+    content: "\f172";
+}
+
+.icon-fi-air-conditioner-1:before {
+    content: "\f173";
+}
+
+.icon-fi-air-conditioner-2:before {
+    content: "\f174";
+}
+
+.icon-fi-air-conditioner-3:before {
+    content: "\f175";
+}
+
+.icon-fi-wifi:before {
+    content: "\f176";
+}
+
+.icon-fi-wifi-1:before {
+    content: "\f177";
+}
+
+.icon-fi-wireless-connection:before {
+    content: "\f178";
+}
+
+.icon-fi-air-conditioner-4:before {
+    content: "\f179";
+}
+
+.icon-fi-wifi-signal:before {
+    content: "\f17a";
+}
+
+.icon-fi-wifi-2:before {
+    content: "\f17b";
+}
+
+.icon-fi-wifi-signal-1:before {
+    content: "\f17c";
+}
+
+.icon-fi-wifi-3:before {
+    content: "\f17d";
+}
+
+.icon-fi-wifi-4:before {
+    content: "\f17e";
+}
+
+.icon-fi-wifi-connection:before {
+    content: "\f17f";
+}
+
+.icon-fi-wifi-5:before {
+    content: "\f180";
+}
+
+.icon-fi-wifi-6:before {
+    content: "\f181";
+}
+
+.icon-fi-refrigerator:before {
+    content: "\f182";
+}
+
+.icon-fi-fridge:before {
+    content: "\f183";
+}
+
+.icon-fi-refrigerator-1:before {
+    content: "\f184";
+}
+
+.icon-fi-fridge-1:before {
+    content: "\f185";
+}
+
+.icon-fi-fridge-2:before {
+    content: "\f186";
+}
+
+.icon-fi-snowflake:before {
+    content: "\f187";
+}
+
+.icon-fi-gym:before {
+    content: "\f188";
+}
+
+.icon-fi-gym-1:before {
+    content: "\f189";
+}
+
+.icon-fi-training:before {
+    content: "\f18a";
+}
+
+.icon-fi-weights:before {
+    content: "\f18b";
+}
+
+.icon-fi-stationary-bike:before {
+    content: "\f18c";
+}
+
+.icon-fi-yoga-pose:before {
+    content: "\f18d";
+}
+
+.icon-fi-lotus:before {
+    content: "\f18e";
+}
+
+.icon-fi-stationary-bike-1:before {
+    content: "\f18f";
+}
+
+.icon-fi-fitness:before {
+    content: "\f190";
+}
+
+.icon-fi-barbell:before {
+    content: "\f191";
+}
+
+.icon-fi-treadmill:before {
+    content: "\f192";
+}
+
+.icon-fi-aromatherapy:before {
+    content: "\f193";
+}
+
+.icon-fi-aromatherapy-1:before {
+    content: "\f194";
+}
+
+.icon-fi-massage:before {
+    content: "\f195";
+}
+
+.icon-fi-essential-oil:before {
+    content: "\f196";
+}
+
+.icon-fi-aromatherapy-2:before {
+    content: "\f197";
+}
+
+.icon-fi-massage-1:before {
+    content: "\f198";
+}
+
+.icon-fi-spa:before {
+    content: "\f199";
+}
+
+.icon-fi-aromatherapy-3:before {
+    content: "\f19a";
+}
+
+.icon-fi-shower:before {
+    content: "\f19b";
+}
+
+.icon-fi-shower-1:before {
+    content: "\f19c";
+}
+
+.icon-fi-bathtub:before {
+    content: "\f19d";
+}
+
+.icon-fi-bathtub-1:before {
+    content: "\f19e";
+}
+
+.icon-fi-bathtub-2:before {
+    content: "\f19f";
+}
+
+.icon-fi-bathtub-3:before {
+    content: "\f1a0";
+}
+
+.icon-fi-bathtub-4:before {
+    content: "\f1a1";
+}
+
+.icon-fi-shower-2:before {
+    content: "\f1a2";
+}
+
+.icon-fi-bathtub-5:before {
+    content: "\f1a3";
+}
+
+.icon-fi-bathroom:before {
+    content: "\f1a4";
+}
+
+.icon-fi-bathing:before {
+    content: "\f1a5";
+}
+
+.icon-fi-swimming-pool:before {
+    content: "\f1a6";
+}
+
+.icon-fi-swimming-pool-1:before {
+    content: "\f1a7";
+}
+
+.icon-fi-ladder:before {
+    content: "\f1a8";
+}
+
+.icon-fi-swimming-pool-2:before {
+    content: "\f1a9";
+}
+
+.icon-fi-pool:before {
+    content: "\f1aa";
+}
+
+.icon-fi-pool-1:before {
+    content: "\f1ab";
+}
+
+.icon-fi-hot-tub:before {
+    content: "\f1ac";
+}
+
+.icon-fi-sun-bath:before {
+    content: "\f1ad";
+}
+
+.icon-fi-washing-machine:before {
+    content: "\f1ae";
+}
+
+.icon-fi-laundry-service:before {
+    content: "\f1af";
+}
+
+.icon-fi-area:before {
+    content: "\f1b0";
+}
+
+.icon-fi-area-1:before {
+    content: "\f1b1";
+}
+
+.icon-fi-maximize:before {
+    content: "\f1b2";
+}
+
+.icon-fi-full-screen:before {
+    content: "\f1b3";
+}
+
+.icon-fi-resize:before {
+    content: "\f1b4";
+}
+
+.icon-fi-text-area:before {
+    content: "\f1b5";
+}
+
+.icon-fi-moka-pot:before {
+    content: "\f1b6";
+}
+
+.icon-fi-espresso:before {
+    content: "\f1b7";
+}
+
+.icon-fi-kettle:before {
+    content: "\f1b8";
+}
+
+.icon-fi-baby-crib:before {
+    content: "\f1b9";
+}
+
+.icon-fi-crib:before {
+    content: "\f1ba";
+}
+
+.icon-fi-hair-dryer:before {
+    content: "\f1bb";
+}
+
+.icon-fi-slippers:before {
+    content: "\f1bc";
+}
+
+.icon-fi-shampoo:before {
+    content: "\f1bd";
+}
+
+.icon-fi-towel-1:before {
+    content: "\f1be";
+}
+
+.icon-fi-towel-2:before {
+    content: "\f1bf";
+}
+
+.icon-fi-towel-3:before {
+    content: "\f1c0";
+}
+
+.icon-fi-bicycle:before {
+    content: "\f1c1";
+}
+
+.icon-fi-goal:before {
+    content: "\f1c2";
+}
+
+.icon-fi-barbeque:before {
+    content: "\f1c3";
+}
+
+.icon-fi-barbecue:before {
+    content: "\f1c4";
+}
+
+.icon-fi-bar-counter:before {
+    content: "\f1c5";
+}
+
+.icon-fi-cocktail:before {
+    content: "\f1c6";
+}
+
+.icon-fi-cocktail-1:before {
+    content: "\f1c7";
+}
+
+.icon-fi-cocktail-2:before {
+    content: "\f1c8";
+}
+
+.icon-fi-veterinary:before {
+    content: "\f1c9";
+}
+
+.icon-fi-disabilities:before {
+    content: "\f1ca";
+}
+
+.icon-fi-wheelchair:before {
+    content: "\f1cb";
+}
+
+.icon-fi-hot:before {
+    content: "\f1cc";
+}
+
+.icon-fi-sunny:before {
+    content: "\f1cd";
+}
+
+.icon-fi-weather:before {
+    content: "\f1ce";
+}
+
+.icon-fi-television:before {
+    content: "\f1cf";
+}
+
+.icon-fi-landscape-1:before {
+    content: "\f1d0";
+}
+
+.icon-fi-landscape-2:before {
+    content: "\f1d1";
+}
+
+.icon-fi-signpost-1:before {
+    content: "\f1d2";
+}
+
+.icon-fi-biodiversity:before {
+    content: "\f1d3";
+}
+
+.icon-fi-biodiversity-1:before {
+    content: "\f1d4";
+}
+
+.icon-fi-gluten-free:before {
+    content: "\f1d5";
+}
+
+.icon-fi-salad:before {
+    content: "\f1d6";
+}
+
+.icon-fi-plant-based:before {
+    content: "\f1d7";
+}
+
+.icon-fi-tuxedo:before {
+    content: "\f1d8";
+}
+
+.icon-fi-clothes:before {
+    content: "\f1d9";
+}
+
+.icon-fi-open-sign:before {
+    content: "\f1da";
+}
+
+.icon-fi-24-hours:before {
+    content: "\f1db";
+}
+
+.icon-fi-reserved:before {
+    content: "\f1dc";
+}
+
+.icon-fi-snowboard:before {
+    content: "\f1dd";
+}
+
+.icon-fi-ski-equipment:before {
+    content: "\f1de";
+}
+
+.icon-fi-ski-lift:before {
+    content: "\f1df";
+}
+
+.icon-fi-alpine:before {
+    content: "\f1e0";
+}
+
+.icon-fi-goggles:before {
+    content: "\f1e1";
+}
+
+.icon-fi-snorkel:before {
+    content: "\f1e2";
+}
+
+.icon-fi-serving-dish:before {
+    content: "\f1e3";
+}
+
+.icon-fi-wine:before {
+    content: "\f1e4";
+}
+
+.icon-fi-safe-box:before {
+    content: "\f1e5";
+}
+
+.icon-fi-strongbox:before {
+    content: "\f1e6";
+}
+
+.icon-fi-charity:before {
+    content: "\f1e7";
+}
+
+.icon-fi-win:before {
+    content: "\f1e8";
+}
+
+.icon-fi-shield:before {
+    content: "\f1e9";
+}
+
+.icon-fi-payment-protection:before {
+    content: "\f1ea";
+}
+
+.icon-fi-credit-card-payment:before {
+    content: "\f1eb";
+}
+
+.icon-fi-circular-clock:before {
+    content: "\f1ec";
+}
+
+.icon-fi-calendar-5:before {
+    content: "\f1ed";
+}
+
+.icon-fi-presentation:before {
+    content: "\f1ee";
+}
+
+.icon-fi-board:before {
+    content: "\f1ef";
+}
+
+.icon-fi-printer:before {
+    content: "\f1f0";
+}
